@@ -1,15 +1,16 @@
 {
-    "users": [
-      {
-        "id": 1,
-       "title":"Title 1",
-       "body":"Here is title 1"
-      },
-      {
-        "id": 2,
-       "title":"Title 2",
-       "body":"Here is title 2"
-      }
-     
-    ]
-  }
+    "data":[
+ {
+    "id":1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+          "genre": "fiction",
+          "edition": "2021",
+          "publisher": "Bloomsbury",
+          "cost": 1299,
+          "borrowed": false
+    }
+  ]
+
+}
