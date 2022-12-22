@@ -1,56 +1,37 @@
 {
- "jobdata": [
-    {
-      "id":1,
-      "name":"Ashish",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "language": "Java"
-    },
-    {
-      "id":2,
-      "name":"Rahul",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "language": "Java"
-    },   {
-      "id":3,
-      "name":"Simmi",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "language": "Java"
-    },   {
-      "id":4,
-      "name":"Vikky",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "language": "Java"
-    },   {
-      "id":5,
-      "name":"Vishal",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "language": "Java"
-    },   {
-      "id":6,
-      "name":"Gautam",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "language": "Java"
-    },   {
-      "id":7,
-      "name":"Sumit",
-      "role": "Frontend",
-      "level": "Junior",
-      "contract": "Full Time",
-      "language": "Java"
-    }
+ "notes": [
+  {
+    "title":"Learn Redux",
+    "describe":"Redux thunk module",
+    "date":"01/12/2022"
+  },
+  {
+    "title":"Learn Typscript",
+    "describe":" Testing module module",
+    "date":"01/11/2022"
+  },  {
+    "title":"Learn Python",
+    "describe":" DSA module",
+    "date":"01/12/2021"
+  },  {
+    "title":"Learn OJ",
+    "describe":"Input Taking module",
+    "date":"01/12/1022"
+  },  {
+    "title":"Learn Reses",
+    "describe":"Redux thunk module",
+    "date":"01/12/2022"
+  },  {
+    "title":"Learn Gocart",
+    "describe":"Redux thunk module",
+    "date":"01/12/2022"
+  },  {
+    "title":"Learn Javascript",
+    "describe":"Redux thunk module",
+    "date":"01/12/2022"
+  }
+
+    
    
   ]
 
